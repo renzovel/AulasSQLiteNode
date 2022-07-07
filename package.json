@@ -1,0 +1,17 @@
+{
+  "name": "projetosqlite",
+  "version": "1.0.0",
+  "description": "Projeto feito durante a clase de lucas de nodejs 05 julho 2022",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "sqlite3": "^5.0.8"
+  }
+}
